@@ -1,4 +1,4 @@
-## Liveblocks + Next.js Figma-style draggable comments
+## Figma-style collaborative comments
 
 This demo shows you how to implement real-time draggable threads in Next.js with [Liveblocks](https://liveblocks.io/). 
 
